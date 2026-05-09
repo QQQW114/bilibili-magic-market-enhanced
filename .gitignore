@@ -1,0 +1,15 @@
+# Captured upstream page/assets for local analysis only; do not publish.
+original.html
+application.js
+original-assets/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / build outputs
+*.log
+*.zip
+*.crx

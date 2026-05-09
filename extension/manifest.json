@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Bilibili 魔力赏市集搜索增强",
+  "version": "0.4.0",
+  "description": "为 B 站魔力赏/市集页面添加连续慢速扫描、结果临时缓存和当前页筛选。",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mall.bilibili.com/neul-next/index.html*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "https://mall.bilibili.com/*"
+  ]
+}
