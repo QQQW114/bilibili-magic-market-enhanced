@@ -51,5 +51,4 @@ D:\bilibili-magic-market-enhanced\userscript\bilibili-magic-market-enhanced.user
 ```
 
 ## 其他
-
 本项目为纯vibe coding产物，如有bug欢迎提交
