@@ -52,4 +52,3 @@ D:\bilibili-magic-market-enhanced\userscript\bilibili-magic-market-enhanced.user
 
 ## 其他
 
-项目为纯vibe conding产物，如有bug欢迎提交
